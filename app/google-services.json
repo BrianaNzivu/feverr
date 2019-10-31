@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "716099881829",
+    "firebase_url": "https://feverr-834e1.firebaseio.com",
+    "project_id": "feverr-834e1",
+    "storage_bucket": "feverr-834e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716099881829:android:aa5437c4fcba0e2f9a6f8c",
+        "android_client_info": {
+          "package_name": "com.example.fever"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716099881829-6iu4bo41jn0l8cbfkftsppnr3v210a9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWh8yRFZ9Mj-sY2_EGn56etkkC7a8Cqwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716099881829-6iu4bo41jn0l8cbfkftsppnr3v210a9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
